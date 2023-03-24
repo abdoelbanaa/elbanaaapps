@@ -1,18 +1,18 @@
 {
   "users": [
     {
-      "id":"0",
+      "id": 0,
       "username": "ElbanaNet"
     },
     {
-      "id":"1",
+      "id": 1,
       "username": "Apps2Link"
     }
   ],
-  "passwords":[
+  "passwords": [
     {
-      "id":"0",
-      "password":"1234567789"
+      "id": 0,
+      "password": 1234567789
     }
   ]
 }
