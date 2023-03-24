@@ -2,17 +2,13 @@
   "users": [
     {
       "id": 0,
-      "username": "ElbanaNet"
+      "username": "ElbanaNet",
+      "password": 123456789
     },
     {
       "id": 1,
-      "username": "Apps2Link"
-    }
-  ],
-  "passwords": [
-    {
-      "id": 0,
-      "password": 1234567789
+      "username": "Apps2Link",
+      "password": 123456789
     }
   ]
 }
